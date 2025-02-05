@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: wfsdqfzw3-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/wfsdqfzw3-python-gitops
